@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<FacialAnimation.BrowTypeDef>
+		<defName>BrowNone</defName>
+		<texPath>Things/Pawn/Humanlike/Brows/None</texPath>
+		<shader>Map/Transparent</shader>
+	</FacialAnimation.BrowTypeDef>
+
+	<FacialAnimation.BrowTypeDef>
+		<defName>BrowTriangle</defName>
+		<texPath>Things/Pawn/Humanlike/Brows/TriangleBrows</texPath>
+		<shader>Map/Transparent</shader>
+	</FacialAnimation.BrowTypeDef>
+
+	<FacialAnimation.BrowTypeDef>
+		<defName>BrowEven</defName>
+		<texPath>Things/Pawn/Humanlike/Brows/EvenBrows</texPath>
+		<shader>Map/Transparent</shader>
+	</FacialAnimation.BrowTypeDef>
+
+	<FacialAnimation.BrowTypeDef>
+		<defName>BrowRaised</defName>
+		<texPath>Things/Pawn/Humanlike/Brows/RaisedBrow</texPath>
+		<shader>Map/Transparent</shader>
+	</FacialAnimation.BrowTypeDef>
+
+	<FacialAnimation.BrowTypeDef>
+		<defName>BrowThin</defName>
+		<texPath>Things/Pawn/Humanlike/Brows/ThinBrows</texPath>
+		<shader>Map/Transparent</shader>
+	</FacialAnimation.BrowTypeDef>
+
+	<FacialAnimation.BrowTypeDef>
+		<defName>BrowSquare</defName>
+		<texPath>Things/Pawn/Humanlike/Brows/SquareBrows</texPath>
+		<shader>Map/Transparent</shader>
+	</FacialAnimation.BrowTypeDef>
+
+	<FacialAnimation.BrowTypeDef>
+		<defName>MonoBrow</defName>
+		<texPath>Things/Pawn/Humanlike/Brows/MonoBrow</texPath>
+		<shader>Map/Transparent</shader>
+	</FacialAnimation.BrowTypeDef>
+
+	<FacialAnimation.BrowTypeDef>
+		<defName>BrowStreamer</defName>
+		<texPath>Things/Pawn/Humanlike/Brows/MrStreamer</texPath>
+		<shader>Map/Transparent</shader>
+		<probability>0.00</probability>
+	</FacialAnimation.BrowTypeDef>
+
+	<FacialAnimation.BrowTypeDef>
+		<defName>BrowFurryMonobrow</defName>
+		<texPath>Things/Pawn/Humanlike/Brows/FurryMonobrow</texPath>
+		<shader>Map/Transparent</shader>
+		<gender>Male</gender>
+	</FacialAnimation.BrowTypeDef>
+
+	<FacialAnimation.BrowTypeDef>
+		<defName>BrowFuzzy</defName>
+		<texPath>Things/Pawn/Humanlike/Brows/Fuzzy</texPath>
+		<shader>Map/Transparent</shader>
+	</FacialAnimation.BrowTypeDef>
+
+	<FacialAnimation.BrowTypeDef>
+		<defName>MonoScarredBrows</defName>
+		<texPath>Things/Pawn/Humanlike/Brows/ScarredBrows</texPath>
+		<shader>Map/Transparent</shader>
+	</FacialAnimation.BrowTypeDef>
+</Defs>

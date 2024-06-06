@@ -1,0 +1,22 @@
+<loadFolders>
+	<v1.3>
+		<li>/</li>
+		<li IfModActive="rimeffect.asarireapers">Mods/Asari</li>
+		<li IfModActive="rimeffect.drell">Mods/Drell</li>
+		<li IfModActive="erin.miqote">Mods/Miqote</li>
+		<li IfModActive="erin.aura">Mods/Aura</li>
+		<li IfModActive="erin.viera">Mods/Viera</li>
+		<li IfModActive="erin.azaphrae">Mods/Azaphrae</li>
+		<li IfModActive="pim.xenohumansretextured">Mods/XenohumansRetexture</li>
+	</v1.3>
+	<v1.4>
+		<li>/</li>
+		<li IfModActive="rimeffect.asarireapers">Mods/Asari</li>
+		<li IfModActive="rimeffect.drell">Mods/Drell</li>
+		<li IfModActive="erin.ffraces">Mods/Miqote</li>
+		<li IfModActive="erin.ffraces">Mods/Aura</li>
+		<li IfModActive="erin.ffraces">Mods/Viera</li>
+		<li IfModActive="erin.azaphrae">Mods/Azaphrae</li>
+		<li IfModActive="pim.xenohumansretextured">Mods/XenohumansRetexture</li>
+	</v1.4>
+</loadFolders>

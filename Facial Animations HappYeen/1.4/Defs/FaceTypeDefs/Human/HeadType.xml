@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+  <FacialAnimation.HeadTypeDef>
+	  <defName>Head_Normal</defName>
+	  <texPath>Things/Pawn/Humanlike/Heads_Blank/Normal</texPath>
+	  <shader>Map/CutoutSkin</shader>
+    <shaderColorOverride>Map/CutoutComplex</shaderColorOverride>
+  </FacialAnimation.HeadTypeDef>
+
+  <FacialAnimation.HeadTypeDef>
+    <defName>HeadPointy</defName>
+    <texPath>Things/Pawn/Humanlike/Heads_Blank/Pointy</texPath>
+    <shader>Map/CutoutSkin</shader>
+    <shaderColorOverride>Map/CutoutComplex</shaderColorOverride>
+  </FacialAnimation.HeadTypeDef>
+
+  <FacialAnimation.HeadTypeDef>
+    <defName>HeadSquare</defName>
+    <texPath>Things/Pawn/Humanlike/Heads_Blank/Square</texPath>
+    <shader>Map/CutoutSkin</shader>
+    <shaderColorOverride>Map/CutoutComplex</shaderColorOverride>
+  </FacialAnimation.HeadTypeDef>
+
+  <FacialAnimation.HeadTypeDef>
+	  <defName>NarrowNormal</defName>
+	  <texPath>Things/Pawn/Humanlike/Heads_Blank/NarrowNormal</texPath>
+	  <shader>Map/CutoutSkin</shader>
+    <shaderColorOverride>Map/CutoutComplex</shaderColorOverride>
+  </FacialAnimation.HeadTypeDef>
+
+  <FacialAnimation.HeadTypeDef>
+    <defName>NarrowPointy</defName>
+    <texPath>Things/Pawn/Humanlike/Heads_Blank/NarrowPointy</texPath>
+    <shader>Map/CutoutSkin</shader>
+    <shaderColorOverride>Map/CutoutComplex</shaderColorOverride>
+  </FacialAnimation.HeadTypeDef>
+
+  <FacialAnimation.HeadTypeDef>
+    <defName>NarrowWide</defName>
+    <texPath>Things/Pawn/Humanlike/Heads_Blank/NarrowWide</texPath>
+    <shader>Map/CutoutSkin</shader>
+    <shaderColorOverride>Map/CutoutComplex</shaderColorOverride>
+  </FacialAnimation.HeadTypeDef>
+  
+  <FacialAnimation.HeadTypeDef>
+	  <defName>Gaunt</defName>
+	  <texPath>Things/Pawn/Humanlike/Heads_Blank/Gaunt</texPath>
+	  <shader>Map/CutoutSkin</shader>
+    <shaderColorOverride>Map/CutoutComplex</shaderColorOverride>
+  </FacialAnimation.HeadTypeDef>
+    
+  <FacialAnimation.HeadTypeDef>
+	  <defName>HeavyJaw</defName>
+	  <texPath>Things/Pawn/Humanlike/Heads_Blank/HeavyJaw</texPath>
+	  <shader>Map/CutoutSkin</shader>
+    <shaderColorOverride>Map/CutoutComplex</shaderColorOverride>
+  </FacialAnimation.HeadTypeDef>
+
+  <FacialAnimation.HeadTypeDef>
+	  <defName>FurskinNormal</defName>
+	  <texPath>Things/Pawn/Humanlike/Heads_Blank/FurskinNormal</texPath>
+	  <shader>Map/CutoutSkin</shader>
+    <shaderColorOverride>Map/CutoutComplex</shaderColorOverride>
+  </FacialAnimation.HeadTypeDef>
+    
+  <FacialAnimation.HeadTypeDef>
+	  <defName>FurskinNarrow</defName>
+	  <texPath>Things/Pawn/Humanlike/Heads_Blank/FurskinNarrow</texPath>
+	  <shader>Map/CutoutSkin</shader>
+    <shaderColorOverride>Map/CutoutComplex</shaderColorOverride>
+  </FacialAnimation.HeadTypeDef>
+    
+  <FacialAnimation.HeadTypeDef>
+	  <defName>FurskinWide</defName>
+	  <texPath>Things/Pawn/Humanlike/Heads_Blank/FurskinWide</texPath>
+	  <shader>Map/CutoutSkin</shader>
+    <shaderColorOverride>Map/CutoutComplex</shaderColorOverride>
+  </FacialAnimation.HeadTypeDef>
+    
+  <FacialAnimation.HeadTypeDef>
+	  <defName>ScaleSkinNormal</defName>
+	  <texPath>Things/Pawn/Humanlike/Heads_Blank/ScaleSkinNormal</texPath>
+	  <shader>Map/CutoutSkin</shader>
+    <shaderColorOverride>Map/CutoutComplex</shaderColorOverride>
+  </FacialAnimation.HeadTypeDef>
+    
+  <FacialAnimation.HeadTypeDef>
+	  <defName>ScaleSkinNarrow</defName>
+	  <texPath>Things/Pawn/Humanlike/Heads_Blank/ScaleSkinNarrow</texPath>
+	  <shader>Map/CutoutSkin</shader>
+    <shaderColorOverride>Map/CutoutComplex</shaderColorOverride>
+  </FacialAnimation.HeadTypeDef>
+    
+  <FacialAnimation.HeadTypeDef>
+	  <defName>ScaleSkinWide</defName>
+	  <texPath>Things/Pawn/Humanlike/Heads_Blank/ScaleSkinWide</texPath>
+	  <shader>Map/CutoutSkin</shader>
+    <shaderColorOverride>Map/CutoutComplex</shaderColorOverride>
+  </FacialAnimation.HeadTypeDef>
+    
+  <FacialAnimation.HeadTypeDef>
+	  <defName>ScaleSkinGaunt</defName>
+	  <texPath>Things/Pawn/Humanlike/Heads_Blank/ScaleSkinGaunt</texPath>
+	  <shader>Map/CutoutSkin</shader>
+    <shaderColorOverride>Map/CutoutComplex</shaderColorOverride>
+  </FacialAnimation.HeadTypeDef>
+</Defs>

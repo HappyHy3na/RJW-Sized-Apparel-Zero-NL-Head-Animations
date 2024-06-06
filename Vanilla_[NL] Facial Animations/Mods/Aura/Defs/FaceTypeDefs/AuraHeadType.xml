@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+  
+<Defs>
+<FacialAnimation.HeadTypeDef>
+<defName>RaenHeadNormal</defName>
+<texPath>Things/Pawn/Aura/Heads_Blank/Raen</texPath>
+<raceName>AURA_Raen</raceName>
+<shader>Map/CutoutComplex</shader>
+</FacialAnimation.HeadTypeDef>
+
+<FacialAnimation.HeadTypeDef>
+<defName>XaelaHeadNormal</defName>
+<texPath>Things/Pawn/Aura/Heads_Blank/Xaela</texPath>
+<raceName>AURA_Xaela</raceName>
+<shader>Map/CutoutComplex</shader>
+</FacialAnimation.HeadTypeDef>
+</Defs>
