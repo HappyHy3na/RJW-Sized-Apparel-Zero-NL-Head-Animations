@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<FacialAnimation.MouthTypeDef>
+		<defName>MouthSad</defName>
+		<texPath>Things/Pawn/Humanlike/Mouth/SadMouth</texPath>
+		<shader>Map/Transparent</shader>
+	</FacialAnimation.MouthTypeDef>
+
+	<FacialAnimation.MouthTypeDef>
+		<defName>MouthSmile</defName>
+		<texPath>Things/Pawn/Humanlike/Mouth/SmileMouth</texPath>
+		<shader>Map/Transparent</shader>
+	</FacialAnimation.MouthTypeDef>
+
+	<FacialAnimation.MouthTypeDef>
+		<defName>MouthCaveman</defName>
+		<texPath>Things/Pawn/Humanlike/Mouth/Caveman</texPath>
+		<shader>Map/Transparent</shader>
+		<gender>Male</gender>
+		<probability>0.05</probability>
+	</FacialAnimation.MouthTypeDef>
+
+	<FacialAnimation.MouthTypeDef>
+		<defName>MouthCheekFrown</defName>
+		<texPath>Things/Pawn/Humanlike/Mouth/CheekFrown</texPath>
+		<shader>Map/Transparent</shader>
+	</FacialAnimation.MouthTypeDef>
+
+	<FacialAnimation.MouthTypeDef>
+		<defName>MouthFatCheeks</defName>
+		<texPath>Things/Pawn/Humanlike/Mouth/FatCheeks</texPath>
+		<shader>Map/Transparent</shader>
+		<gender>Male</gender>
+		<probability>0.05</probability>
+	</FacialAnimation.MouthTypeDef>
+
+	<FacialAnimation.MouthTypeDef>
+		<defName>MouthHawk</defName>
+		<texPath>Things/Pawn/Humanlike/Mouth/Hawk</texPath>
+		<gender>Male</gender>
+		<shader>Map/Transparent</shader>
+	</FacialAnimation.MouthTypeDef>
+
+	<!-- Not up to my standards. CutoutComplex needed to make teeth white, but makes the edges look gross.
+	<FacialAnimation.MouthTypeDef>
+		<defName>MouthLipsCocky</defName>
+		<texPath>Things/Pawn/Humanlike/Mouth/LipsCocky</texPath>
+		<shader>Map/Transparent</shader>
+		<gender>Female</gender>
+	</FacialAnimation.MouthTypeDef>	
+	
+	<FacialAnimation.MouthTypeDef>
+		<defName>MouthLipsGrin</defName>
+		<texPath>Things/Pawn/Humanlike/Mouth/LipsGrin</texPath>
+		<shader>Map/Transparent</shader>
+		<gender>Female</gender>
+	</FacialAnimation.MouthTypeDef>
+	
+	<FacialAnimation.MouthTypeDef>
+		<defName>MouthLipsParted</defName>
+		<texPath>Things/Pawn/Humanlike/Mouth/LipsParted</texPath>
+		<shader>Map/Transparent</shader>
+		<gender>Female</gender>
+	</FacialAnimation.MouthTypeDef>
+-->
+
+	<FacialAnimation.MouthTypeDef>
+		<defName>MouthLipsSimple</defName>
+		<texPath>Things/Pawn/Humanlike/Mouth/LipsSimple</texPath>
+		<shader>Map/Transparent</shader>
+		<gender>Female</gender>
+	</FacialAnimation.MouthTypeDef>
+
+	<FacialAnimation.MouthTypeDef>
+		<defName>MouthLipsSmallSmile</defName>
+		<texPath>Things/Pawn/Humanlike/Mouth/LipsSmallSmile</texPath>
+		<shader>Map/Transparent</shader>
+		<gender>Female</gender>
+	</FacialAnimation.MouthTypeDef>
+
+	<FacialAnimation.MouthTypeDef>
+		<defName>MouthLipsSmirk</defName>
+		<texPath>Things/Pawn/Humanlike/Mouth/LipsSmirk</texPath>
+		<shader>Map/Transparent</shader>
+		<gender>Female</gender>
+	</FacialAnimation.MouthTypeDef>
+
+	<FacialAnimation.MouthTypeDef>
+		<defName>MouthLipsTinySmile</defName>
+		<texPath>Things/Pawn/Humanlike/Mouth/LipsTinySmile</texPath>
+		<shader>Map/Transparent</shader>
+		<gender>Female</gender>
+	</FacialAnimation.MouthTypeDef>
+
+	<FacialAnimation.MouthTypeDef>
+		<defName>MouthLittleFrown</defName>
+		<texPath>Things/Pawn/Humanlike/Mouth/LittleFrown</texPath>
+		<shader>Map/Transparent</shader>
+	</FacialAnimation.MouthTypeDef>
+
+	<FacialAnimation.MouthTypeDef>
+		<defName>MouthLittleGrin</defName>
+		<texPath>Things/Pawn/Humanlike/Mouth/LittleGrin</texPath>
+		<shader>Map/Transparent</shader>
+	</FacialAnimation.MouthTypeDef>
+
+	<FacialAnimation.MouthTypeDef>
+		<defName>MouthMrStreamer</defName>
+		<texPath>Things/Pawn/Humanlike/Mouth/MrStreamer</texPath>
+		<shader>Map/CutoutComplex</shader>
+		<gender>Male</gender>
+		<probability>0.00</probability>
+	</FacialAnimation.MouthTypeDef>
+
+	<FacialAnimation.MouthTypeDef>
+		<defName>MouthScowl</defName>
+		<texPath>Things/Pawn/Humanlike/Mouth/Scowl</texPath>
+		<shader>Map/Transparent</shader>
+		<gender>Male</gender>
+	</FacialAnimation.MouthTypeDef>
+
+	<FacialAnimation.MouthTypeDef>
+		<defName>MouthSimpleMouth</defName>
+		<texPath>Things/Pawn/Humanlike/Mouth/SimpleMouth</texPath>
+		<shader>Map/Transparent</shader>
+	</FacialAnimation.MouthTypeDef>
+
+	<FacialAnimation.MouthTypeDef>
+		<defName>MouthSmug</defName>
+		<texPath>Things/Pawn/Humanlike/Mouth/Smug</texPath>
+		<shader>Map/Transparent</shader>
+	</FacialAnimation.MouthTypeDef>
+
+	<FacialAnimation.MouthTypeDef>
+		<defName>MouthLittleSuperSmirk</defName>
+		<texPath>Things/Pawn/Humanlike/Mouth/SuperSmirk</texPath>
+		<shader>Map/Transparent</shader>
+	</FacialAnimation.MouthTypeDef>
+
+	<FacialAnimation.MouthTypeDef>
+		<defName>MouthEdnaLips</defName>
+		<texPath>Things/Pawn/Humanlike/Mouth/EdnaLips</texPath>
+		<shader>Map/Transparent</shader>
+		<gender>Female</gender>
+	</FacialAnimation.MouthTypeDef>
+
+	<FacialAnimation.MouthTypeDef>
+		<defName>MouthLipsBig</defName>
+		<texPath>Things/Pawn/Humanlike/Mouth/LipsBig</texPath>
+		<shader>Map/Transparent</shader>
+		<gender>Female</gender>
+	</FacialAnimation.MouthTypeDef>
+
+	<FacialAnimation.MouthTypeDef>
+		<defName>MouthLipsSimpleSmile</defName>
+		<texPath>Things/Pawn/Humanlike/Mouth/LipsSimpleSmile</texPath>
+		<shader>Map/Transparent</shader>
+		<gender>Female</gender>
+	</FacialAnimation.MouthTypeDef>
+
+	<FacialAnimation.MouthTypeDef>
+		<defName>MouthLipsWorried</defName>
+		<texPath>Things/Pawn/Humanlike/Mouth/LipsWorried</texPath>
+		<shader>Map/Transparent</shader>
+		<gender>Female</gender>
+	</FacialAnimation.MouthTypeDef>
+
+	<FacialAnimation.MouthTypeDef>
+		<defName>MouthClassicSmile</defName>
+		<texPath>Things/Pawn/Humanlike/Mouth/Simple</texPath>
+		<shader>Map/Transparent</shader>
+	</FacialAnimation.MouthTypeDef>
+
+	<FacialAnimation.MouthTypeDef>
+		<defName>MouthSmirkSmile</defName>
+		<texPath>Things/Pawn/Humanlike/Mouth/Smile</texPath>
+		<shader>Map/Transparent</shader>
+	</FacialAnimation.MouthTypeDef>
+	
+	<FacialAnimation.MouthTypeDef>
+		<defName>MouthNone</defName>
+		<texPath>Things/Pawn/Humanlike/Mouth/None</texPath>
+		<probability>0.0</probability>
+	</FacialAnimation.MouthTypeDef>
+</Defs>

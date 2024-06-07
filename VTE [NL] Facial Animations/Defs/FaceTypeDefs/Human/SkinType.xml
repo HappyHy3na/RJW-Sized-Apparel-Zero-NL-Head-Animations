@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<FacialAnimation.SkinTypeDef>
+		<defName>SkinFreckles</defName>
+		<texPath>Things/Pawn/Humanlike/Skins/Freckles</texPath>
+		<shader>Map/Transparent</shader>
+		<probability>0.05</probability>
+	</FacialAnimation.SkinTypeDef>
+
+	<FacialAnimation.SkinTypeDef>
+		<defName>SkinCrowsFeet</defName>
+		<texPath>Things/Pawn/Humanlike/Skins/CrowsFeet</texPath>
+		<shader>Map/Transparent</shader>
+		<probability>0.05</probability>
+	</FacialAnimation.SkinTypeDef>
+
+	<FacialAnimation.SkinTypeDef>
+		<defName>SkinTiredEyes</defName>
+		<texPath>Things/Pawn/Humanlike/Skins/TiredEyes</texPath>
+		<shader>Map/Transparent</shader>
+		<probability>0.05</probability>
+	</FacialAnimation.SkinTypeDef>
+
+	<FacialAnimation.SkinTypeDef>
+		<defName>SkinBandaid</defName>
+		<texPath>Things/Pawn/Humanlike/Skins/Bandaid</texPath>
+		<shader>Map/Transparent</shader>
+		<probability>0.05</probability>
+	</FacialAnimation.SkinTypeDef>
+
+	<FacialAnimation.SkinTypeDef>
+		<defName>SkinBruise</defName>
+		<texPath>Things/Pawn/Humanlike/Skins/Bruise</texPath>
+		<shader>Map/Transparent</shader>
+		<probability>0.05</probability>
+	</FacialAnimation.SkinTypeDef>
+
+	<FacialAnimation.SkinTypeDef>
+		<defName>SkinCheekbones</defName>
+		<texPath>Things/Pawn/Humanlike/Skins/Cheekbones</texPath>
+		<shader>Map/Transparent</shader>
+		<probability>0.05</probability>
+	</FacialAnimation.SkinTypeDef>
+
+	<FacialAnimation.SkinTypeDef>
+		<defName>SkinCheekScar</defName>
+		<texPath>Things/Pawn/Humanlike/Skins/CheekScar</texPath>
+		<shader>Map/Transparent</shader>
+		<probability>0.05</probability>
+	</FacialAnimation.SkinTypeDef>
+
+	<FacialAnimation.SkinTypeDef>
+		<defName>SkinChinCleft</defName>
+		<texPath>Things/Pawn/Humanlike/Skins/ChinCleft</texPath>
+		<shader>Map/Transparent</shader>
+		<probability>0.05</probability>
+		<gender>Male</gender>
+	</FacialAnimation.SkinTypeDef>
+
+	<FacialAnimation.SkinTypeDef>
+		<defName>SkinDecrepit</defName>
+		<texPath>Things/Pawn/Humanlike/Skins/Decrepit</texPath>
+		<shader>Map/Transparent</shader>
+		<probability>0.05</probability>
+		<gender>Male</gender>
+	</FacialAnimation.SkinTypeDef>
+
+	<FacialAnimation.SkinTypeDef>
+		<defName>SkinEyeshadow</defName>
+		<texPath>Things/Pawn/Humanlike/Skins/Eyeshadow</texPath>
+		<shader>Map/Transparent</shader>
+		<probability>0.05</probability>
+		<gender>Female</gender>
+	</FacialAnimation.SkinTypeDef>
+
+	<FacialAnimation.SkinTypeDef>
+		<defName>SkinForeheadScar</defName>
+		<texPath>Things/Pawn/Humanlike/Skins/ForeheadScar</texPath>
+		<shader>Map/Transparent</shader>
+		<probability>0.05</probability>
+	</FacialAnimation.SkinTypeDef>
+
+	<FacialAnimation.SkinTypeDef>
+		<defName>SkinForheadWrinkles</defName>
+		<texPath>Things/Pawn/Humanlike/Skins/ForheadWrinkles</texPath>
+		<shader>Map/Transparent</shader>
+		<probability>0.05</probability>
+	</FacialAnimation.SkinTypeDef>
+
+	<FacialAnimation.SkinTypeDef>
+		<defName>SkinFreckles2</defName>
+		<texPath>Things/Pawn/Humanlike/Skins/Freckles2</texPath>
+		<shader>Map/Transparent</shader>
+		<probability>0.05</probability>
+	</FacialAnimation.SkinTypeDef>
+
+	<FacialAnimation.SkinTypeDef>
+		<defName>SkinFreckles3</defName>
+		<texPath>Things/Pawn/Humanlike/Skins/Freckles3</texPath>
+		<shader>Map/Transparent</shader>
+		<probability>0.05</probability>
+	</FacialAnimation.SkinTypeDef>
+
+	<FacialAnimation.SkinTypeDef>
+		<defName>SkinFrownLines</defName>
+		<texPath>Things/Pawn/Humanlike/Skins/FrownLines</texPath>
+		<shader>Map/Transparent</shader>
+		<probability>0.05</probability>
+	</FacialAnimation.SkinTypeDef>
+
+	<FacialAnimation.SkinTypeDef>
+		<defName>SkinFurrows</defName>
+		<texPath>Things/Pawn/Humanlike/Skins/Furrows</texPath>
+		<shader>Map/Transparent</shader>
+		<probability>0.05</probability>
+	</FacialAnimation.SkinTypeDef>
+
+	<FacialAnimation.SkinTypeDef>
+		<defName>SkinRosyCheeks</defName>
+		<texPath>Things/Pawn/Humanlike/Skins/RosyCheeks</texPath>
+		<shader>Map/Transparent</shader>
+		<probability>0.05</probability>
+	</FacialAnimation.SkinTypeDef>
+
+	<FacialAnimation.SkinTypeDef>
+		<defName>SkinSmileLines</defName>
+		<texPath>Things/Pawn/Humanlike/Skins/SmileLines</texPath>
+		<shader>Map/Transparent</shader>
+		<probability>0.05</probability>
+	</FacialAnimation.SkinTypeDef>
+	
+
+	<!-- Glasses Not up to my standards.
+	<FacialAnimation.SkinTypeDef>
+		<defName>BasicGlasses</defName>
+		<texPath>Things/Pawn/Humanlike/Skins/BasicGlasses</texPath>
+		<shader>Map/Transparent</shader>
+		<probability>0.05</probability>
+	</FacialAnimation.SkinTypeDef>
+
+	<FacialAnimation.SkinTypeDef>
+		<defName>GlassesCateye</defName>
+		<texPath>Things/Pawn/Humanlike/Skins/GlassesCateye</texPath>
+		<shader>Map/Transparent</shader>
+		<probability>0.05</probability>
+	</FacialAnimation.SkinTypeDef>
+
+	<FacialAnimation.SkinTypeDef>
+		<defName>GlassesHornrim</defName>
+		<texPath>Things/Pawn/Humanlike/Skins/GlassesHornrim</texPath>
+		<shader>Map/Transparent</shader>
+		<probability>0.05</probability>
+	</FacialAnimation.SkinTypeDef>
+
+	<FacialAnimation.SkinTypeDef>
+		<defName>GlassesRound</defName>
+		<texPath>Things/Pawn/Humanlike/Skins/GlassesRound</texPath>
+		<shader>Map/Transparent</shader>
+		<probability>0.05</probability>
+	</FacialAnimation.SkinTypeDef>
+
+	<FacialAnimation.SkinTypeDef>
+		<defName>GlassesSquare</defName>
+		<texPath>Things/Pawn/Humanlike/Skins/GlassesSquare</texPath>
+		<shader>Map/Transparent</shader>
+		<probability>0.05</probability>
+	</FacialAnimation.SkinTypeDef>
+	-->
+</Defs>

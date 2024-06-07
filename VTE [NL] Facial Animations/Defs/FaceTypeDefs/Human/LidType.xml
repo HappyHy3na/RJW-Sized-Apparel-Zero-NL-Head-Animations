@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<FacialAnimation.LidTypeDef>
+		<defName>LidAlmond</defName>
+		<texPath>Things/Pawn/Humanlike/Lids/Almond</texPath>
+		<shader>Map/Transparent</shader>
+	</FacialAnimation.LidTypeDef>
+
+	<FacialAnimation.LidTypeDef>
+		<defName>LidCheerful</defName>
+		<texPath>Things/Pawn/Humanlike/Lids/Cheerful</texPath>
+		<shader>Map/Transparent</shader>
+	</FacialAnimation.LidTypeDef>
+
+	<FacialAnimation.LidTypeDef>
+		<defName>LidUnimpressed</defName>
+		<texPath>Things/Pawn/Humanlike/Lids/Sleepy</texPath>
+		<shader>Map/Transparent</shader>
+	</FacialAnimation.LidTypeDef>
+
+	<FacialAnimation.LidTypeDef>
+		<defName>LidFlirty</defName>
+		<texPath>Things/Pawn/Humanlike/Lids/Flashy</texPath>
+		<shader>Map/Transparent</shader>
+		<gender>Female</gender>
+	</FacialAnimation.LidTypeDef>
+
+	<FacialAnimation.LidTypeDef>
+		<defName>LidStuffed</defName>
+		<texPath>Things/Pawn/Humanlike/Lids/Stuffed</texPath>
+		<shader>Map/Transparent</shader>
+	</FacialAnimation.LidTypeDef>
+
+	<FacialAnimation.LidTypeDef>
+		<defName>LidHardened</defName>
+		<texPath>Things/Pawn/Humanlike/Lids/Hardened</texPath>
+		<shader>Map/Transparent</shader>
+		<gender>Male</gender>
+	</FacialAnimation.LidTypeDef>
+
+	<FacialAnimation.LidTypeDef>
+		<defName>LidSimple</defName>
+		<texPath>Things/Pawn/Humanlike/Lids/Simple</texPath>
+		<shader>Map/Transparent</shader>
+	</FacialAnimation.LidTypeDef>
+
+	<FacialAnimation.LidTypeDef>
+		<defName>LidSquinting</defName>
+		<texPath>Things/Pawn/Humanlike/Lids/Squinting</texPath>
+		<shader>Map/Transparent</shader>
+	</FacialAnimation.LidTypeDef>
+
+	<FacialAnimation.LidTypeDef>
+		<defName>BionicBoth</defName>
+		<texPath>Things/Pawn/Humanlike/Lids/BionicBoth</texPath>
+		<shader>Map/CutoutComplex</shader>
+		<probability>0.0</probability>
+	</FacialAnimation.LidTypeDef>
+
+	<FacialAnimation.LidTypeDef>
+		<defName>BionicLeft</defName>
+		<texPath>Things/Pawn/Humanlike/Lids/BionicLeft</texPath>
+		<shader>Map/CutoutComplex</shader>
+		<probability>0.0</probability>
+	</FacialAnimation.LidTypeDef>
+
+	<FacialAnimation.LidTypeDef>
+		<defName>BionicRight</defName>
+		<texPath>Things/Pawn/Humanlike/Lids/BionicRight</texPath>
+		<shader>Map/CutoutComplex</shader>
+		<probability>0.0</probability>
+	</FacialAnimation.LidTypeDef>	
+	
+	<FacialAnimation.LidTypeDef>
+		<defName>BIGEYE</defName>
+		<texPath>Things/Pawn/Humanlike/Lids/BIGEYE</texPath>
+		<shader>Map/CutoutComplex</shader>
+		<probability>0.0</probability>
+	</FacialAnimation.LidTypeDef>	
+</Defs>
